@@ -1,0 +1,6 @@
+[submodule "files/scripts/custom"]
+	path = files/scripts/custom
+	url = https://github.com/giedriusramas/test
+[submodule "files/scripts/intel-ext"]
+	path = files/scripts/intel-ext
+	url = https://github.com/sethhall/intel-ext.git
