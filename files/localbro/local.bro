@@ -111,4 +111,4 @@
 
 @load  my_scripts/custom
 
-redef Intel::read_files += {"/opt/bro/share/bro.intel"};
+redef Intel::read_files += {"/opt/bro/share/bro/bro.intel"};

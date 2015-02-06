@@ -68,7 +68,7 @@ class bro (
     ignore    => '.git',
     notify    => Service['wassup_bro'],
 #   require   => Exec['create_site_dir'],
-    show_diff => false,
+#    show_diff => false,
   }
 
   service { 'wassup_bro':
